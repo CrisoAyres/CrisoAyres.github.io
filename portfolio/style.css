@@ -1,0 +1,80 @@
+h1 {
+  font-family: 'Times New Roman', Times, serif, "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+h4 {
+  font-family: 'Times New Roman', Times, serif, "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+body {
+  background-color: #fff1ff;
+  font-size: 1em;
+  margin-left: 25px;
+}
+
+a,
+h4,
+li,
+#meunome,
+#blog,
+#indice {
+  color: #111111;
+}
+
+#react {
+  font-size: 24px;
+}
+
+#learning {
+  font-size: 20px;
+}
+
+#piano {
+  font-size: 16px;
+}
+
+.foto-destaque {
+  border-radius: 20px;
+}
+
+.button {
+  background-color: #ee82ee;
+  color: #fff1ff;
+  padding: 15px 30px;
+  text-decoration: none;
+  border-radius: 4px;
+}
+
+.button:hover {
+ background-color: #f19ff1;
+}
+
+
+.links {
+  text-decoration: none;
+}
+
+#description,
+#meunome,
+#blog {
+  padding-left: 30%;
+}
+
+#meunome {
+  text-align: center;
+}
+#criso {
+  float: left;
+  width: 28%;
+}
+
+.nome-completo {
+  text-align: center;
+}
+
+#footer {
+
+  padding-left: 30%;
+}
